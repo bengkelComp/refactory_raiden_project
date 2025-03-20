@@ -1,0 +1,6 @@
+2025-03-21 01:38:49.406 [info] Getting Manifest... github.vscode-github-actions
+2025-03-21 01:38:49.879 [info] Installing extension: github.vscode-github-actions {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-03-21 01:39:00.195 [info] Extension signature verification result for github.vscode-github-actions: Success. Internal Code: 0. Executed: true. Duration: 7836ms.
+2025-03-21 01:39:01.005 [info] Extracted extension to file:///root/.vscode/extensions/github.vscode-github-actions-0.27.1: github.vscode-github-actions
+2025-03-21 01:39:01.039 [info] Renamed to /root/.vscode/extensions/github.vscode-github-actions-0.27.1
+2025-03-21 01:39:01.092 [info] Extension installed successfully: github.vscode-github-actions vscode-userdata:/root/.vscode/extensions/extensions.json

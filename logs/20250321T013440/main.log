@@ -1,0 +1,5 @@
+2025-03-21 01:34:40.892 [info] update#setState idle
+2025-03-21 01:35:10.899 [info] update#setState checking for updates
+2025-03-21 01:35:10.982 [info] update#setState idle
+2025-03-21 01:35:12.718 [info] Extension host with pid 43974 exited with code: 0, signal: unknown.
+2025-03-21 01:39:54.585 [info] Extension host with pid 44066 exited with code: 0, signal: unknown.
